@@ -1,0 +1,7 @@
+C:\Users\franc\OneDrive\Área de Trabalho\acc-steering-lock-master\obj\Debug\Havner.AccSteeringLock.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Área de Trabalho\acc-steering-lock-master\obj\Debug\Havner.AccSteeringLock.csproj.CopyComplete
+C:\Users\franc\OneDrive\Área de Trabalho\acc-steering-lock-master\obj\Debug\Havner.AccSteeringLock.dll
+C:\Users\franc\OneDrive\Área de Trabalho\acc-steering-lock-master\obj\Debug\Havner.AccSteeringLock.pdb
+C:\Users\franc\OneDrive\Havner.AccSteeringLock.dll
+C:\Users\franc\OneDrive\Havner.AccSteeringLock.pdb
+C:\Users\franc\OneDrive\Área de Trabalho\acc-steering-lock-master\obj\Debug\Havner.AccSteeringLock.csproj.AssemblyReference.cache
