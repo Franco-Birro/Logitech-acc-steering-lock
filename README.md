@@ -41,8 +41,8 @@ In TrueDrive you should see "Angle set by game" below "Steering range".
 Ilja Jusupov for his code that sets the steering lock in SimuCUBE.  
 https://github.com/gro-ove/actools/tree/master/AcTools.WheelAngles/Implementations
 
-Havner creator of the original code
-
+Havner creator of the original streering-lock plugin 
+https://www.racedepartment.com/downloads/hardware-steering-lock-simhub-plugin.39309/
 https://github.com/Havner/acc-steering-lock
 
 <!-- Local Variables: -->
