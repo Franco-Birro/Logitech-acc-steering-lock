@@ -8,6 +8,7 @@ Currently it works for:
 - MMOs
 - all SimuCUBEs (1, 2S, 2P, 2U)
 - Thrustmasters (300, 500, TGT, TMX, TSPC, TSXW, TX, F1)
+- Logitech (G25, G27, G29, G920, G923, DFGT)
 
 ## Instalation
 
